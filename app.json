@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/smdckzh/netxchs",
+  "repository": "https://github.com/smdckzh/netxchs",
   "stack": "container"
  }
